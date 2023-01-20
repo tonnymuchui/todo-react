@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-  <h3><b>Math Magician React project</b></h3>
+  <h3><b>Todo React project</b></h3>
 
 </div>
 
@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician<a name="about-project"></a>
+# 📖 Todo List<a name="about-project"></a>
 
-**[Math Magician]** is simple calculator project built using ReactJS.
+**[Todo List]** is simple calculator project built using ReactJS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,7 +104,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/tonnymuchui/Math-Magicians/
+  git clone https://github.com/tonnymuchui/react-todo-list/
 ```
 
 
