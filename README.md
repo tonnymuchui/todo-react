@@ -2,6 +2,7 @@
 
   <h3><b>Todo React project</b></h3>
 
+![](./public/todo1.png)
 </div>
 
 <!-- TABLE OF CONTENTS -->
